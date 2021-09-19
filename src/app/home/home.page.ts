@@ -21,7 +21,7 @@ export class HomePage {
 
 ngOnInit(){
 
-  const browser = this.iab.create('https://www.sportsplus.pk','_self',{location:'no'});
+  const browser = this.iab.create('https://example.com/','_self',{location:'no'});
 
 }
 
