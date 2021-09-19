@@ -1,0 +1,8 @@
+{
+  "name": "SportsPlusApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "4f0396ec"
+}
